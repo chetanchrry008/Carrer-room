@@ -134,7 +134,7 @@ font-size: small;
     z-index: 10000;
     position: relative;
     left: 500px;
-    bottom: 1234px;
+    bottom: 1180px;
     display: none; 
 }
 #nav{
@@ -208,6 +208,10 @@ li{
     border: none; 
     position: relative;
     bottom: 20px; 
+}
+ul a{
+    text-decoration: underline;
+    color: black;
 }
 
 
